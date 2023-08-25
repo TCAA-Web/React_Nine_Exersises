@@ -1,0 +1,28 @@
+.jokeContainer {
+    background-color: #aeed97;
+    width:90%;
+    margin: auto;
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    height: 50vh;
+
+    div {
+       padding: 16px;
+        background-color: white;
+        border-radius: 16px;
+        width: 75%;
+        text-align: center;
+        min-height: 35vh;
+        box-shadow: 6px 9px 12px -7px rgba(0,0,0,0.75);
+
+        h5{
+            font-size: 1.1rem;
+        }
+        p{
+            font-size: 1rem;
+        }
+    }
+}

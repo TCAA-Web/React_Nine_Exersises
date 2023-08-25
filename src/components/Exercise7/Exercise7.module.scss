@@ -1,0 +1,25 @@
+.formStyle {
+    div { 
+        display: grid;
+        align-items: center;
+        justify-content: center;
+        input{
+            width: 100%;
+            padding: 8px;
+            border-radius: 8px;
+            border: solid 1px rgb(0,0,0,0.5);
+            margin-bottom: 4px;
+        }
+        
+        button {
+            border-radius: 8px;
+            text-align: center;
+            padding: 4px;
+            color: white;
+            background-color: rgb(240,30,30);
+            width: 100%;
+            border: none;
+            font-size: 1.3rem;
+        }
+    }
+}

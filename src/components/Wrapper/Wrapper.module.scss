@@ -1,0 +1,19 @@
+.wrapper {
+    display: grid;
+    justify-content: center;
+    height: auto;
+    align-items: center;
+    width: 90%;
+    border: solid 8px black;
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border-radius: 16px;
+}
+.heading{
+    text-decoration: underline;
+    padding-bottom: 10%;
+    font-size: 2.4rem;
+}

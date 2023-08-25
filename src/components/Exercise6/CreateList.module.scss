@@ -1,0 +1,12 @@
+.listWrapper {
+    border: solid 1px rgba(190,190,190,0.6);
+    border-radius: 8px;
+}
+
+.listItem {
+    border-bottom: solid 1px rgba(190,190,190,0.6);
+    display: grid;
+    margin: auto;
+    padding:8px;
+    justify-content: center;
+}
